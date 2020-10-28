@@ -629,6 +629,12 @@ li.pos_btn {
     #orangediv2 , #orangediv3,  #orangediv , .pos_absolute{
         display:none !important;
     }
+    li.pos_btn {
+        position: static;
+    }
+    .no_left{
+        margin-left: 0 !important;
+    }
 }
 
 #box {
